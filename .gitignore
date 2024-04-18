@@ -1,0 +1,6 @@
+*.o
+hw5_tests/
+wordle-driver
+schedwork-driver
+dict-eng.h.gch
+wordle.h.gch
